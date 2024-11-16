@@ -1,0 +1,22 @@
+{
+    "name": "data-insight-hub",
+    "version": "1.0.0",
+    "description": "A backend API for Personal Data Insights",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "mongoose": "^5.9.10",
+      "jsonwebtoken": "^8.5.1",
+      "bcryptjs": "^2.4.3",
+      "dotenv": "^8.2.0",
+      "passport": "^0.4.1",
+      "passport-local": "^1.0.0"
+    },
+    "devDependencies": {},
+    "author": "Nuraj Shaminda",
+    "license": "MIT"
+  }
+  
